@@ -1,3 +1,4 @@
 groq
 python-dotenv # .env key retrive
 streamlit  # front-end testing 
+PyPDF2   # for pdf reader 
